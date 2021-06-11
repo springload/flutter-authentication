@@ -172,7 +172,7 @@ class _MyAppState extends State<MyApp> {
           AUTH0_REDIRECT_URI,
           issuer: 'https://$AUTH0_DOMAIN',
           scopes: <String>['openid', 'profile', 'offline_access'],
-          // promptValues: ['login']
+          promptValues: ['login']
         ),
       );
 
