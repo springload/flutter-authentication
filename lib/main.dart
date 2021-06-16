@@ -20,7 +20,7 @@ const FlutterSecureStorage secureStorage = FlutterSecureStorage();
 const String AUTH0_DOMAIN = 'again-again-dev.au.auth0.com';
 const String AUTH0_CLIENT_ID = '3Z6H21BuTGaBUwmFuozgMa3OTyq5Sdju';
 
-const String AUTH0_REDIRECT_URI = 'again-again-dev.au.auth0.com://login-callback';
+const String AUTH0_REDIRECT_URI = 'again-again://login-callback';
 const String AUTH0_ISSUER = 'https://$AUTH0_DOMAIN';
 
 /// -----------------------------------

@@ -48,7 +48,7 @@
          <string>Editor</string>
          <key>CFBundleURLSchemes</key>
          <array>
-            <string>com.auth0.flutterdemo</string>
+            <string>again-again</string>
          </array>
       </dict>
    </array>
